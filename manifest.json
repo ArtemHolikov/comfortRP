@@ -1,6 +1,6 @@
 {
-  "serverIp": "127.0.0.1",
-  "serverPort": 7777,
+  "serverIp": "5.9.78.252",
+  "serverPort": 3340,
   "files": [
     {
       "path": "test.txt",
