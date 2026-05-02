@@ -3,9 +3,14 @@
   "serverPort": 3340,
   "files": [
     {
-      "path": "test.txt",
-      "url": "https://raw.githubusercontent.com/ArtemHolikov/comfortRP/main/test.txt",
-      "hash": "test"
+      "path": "modloader/mercedes_g_class/landstal.dff",
+      "url": "https://raw.githubusercontent.com/ArtemHolikov/comfortRP/main/modloader/mercedes_g_class/landstal.dff",
+      "hash": "F9862DF87B930829F734F6283E268B0010426E3E0B954AECF3CE2D19DDED32B2"
+    },
+    {
+      "path": "modloader/mercedes_g_class/landstal.txd",
+      "url": "https://raw.githubusercontent.com/ArtemHolikov/comfortRP/main/modloader/mercedes_g_class/landstal.txd",
+      "hash": "8A59A5988CDC2EEA359E3A0C78DAF0D66E29BE02BF7D195DF62B25BFB03007E3"
     }
   ]
 }
