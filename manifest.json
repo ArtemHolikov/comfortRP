@@ -1,0 +1,11 @@
+{
+  "serverIp": "127.0.0.1",
+  "serverPort": 7777,
+  "files": [
+    {
+      "path": "test.txt",
+      "url": "https://files.catbox.moe/ajytwl.txt",
+      "hash": "test"
+    }
+  ]
+}
